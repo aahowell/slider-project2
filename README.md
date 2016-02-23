@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Horizontal Timeline
 =========
 
@@ -8,3 +9,6 @@ An easy to customize, horizontal timeline powered by CSS and jQuery.
 [Demo](https://codyhouse.co/demo/horizontal-timeline/index.html)
  
 [Terms](http://codyhouse.co/terms/)
+=======
+# slider-project2
+>>>>>>> cc2872e048ad715bf5f45cb356b40a75579fa228

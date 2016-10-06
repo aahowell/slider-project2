@@ -1,14 +1,3 @@
-<<<<<<< HEAD
-Horizontal Timeline
-=========
+J596 Slider Project 2
 
-An easy to customize, horizontal timeline powered by CSS and jQuery.
-
-[Article on CodyHouse](http://codyhouse.co/gem/horizontal-timeline/)
-
-[Demo](https://codyhouse.co/demo/horizontal-timeline/index.html)
- 
-[Terms](http://codyhouse.co/terms/)
-=======
-# slider-project2
->>>>>>> cc2872e048ad715bf5f45cb356b40a75579fa228
+Live: http://aleahhowell.com/educational-slider/
